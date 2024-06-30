@@ -1,0 +1,352 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{240718FB-3417-40AD-9084-66125EA02C6C}|API\\API.csproj|c:\\users\\daniel.c\\documents\\prueba tecnica .net\\pruebatecnicabackend\\api\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240718FB-3417-40AD-9084-66125EA02C6C}|API\\API.csproj|solutionrelative:api\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240718FB-3417-40AD-9084-66125EA02C6C}|API\\API.csproj|c:\\users\\daniel.c\\documents\\prueba tecnica .net\\pruebatecnicabackend\\api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240718FB-3417-40AD-9084-66125EA02C6C}|API\\API.csproj|solutionrelative:api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240718FB-3417-40AD-9084-66125EA02C6C}|API\\API.csproj|c:\\users\\daniel.c\\documents\\prueba tecnica .net\\pruebatecnicabackend\\api\\extensiones\\servicioaplicacionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240718FB-3417-40AD-9084-66125EA02C6C}|API\\API.csproj|solutionrelative:api\\extensiones\\servicioaplicacionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240718FB-3417-40AD-9084-66125EA02C6C}|API\\API.csproj|c:\\users\\daniel.c\\documents\\prueba tecnica .net\\pruebatecnicabackend\\api\\extensiones\\servicioidentidadextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240718FB-3417-40AD-9084-66125EA02C6C}|API\\API.csproj|solutionrelative:api\\extensiones\\servicioidentidadextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240718FB-3417-40AD-9084-66125EA02C6C}|API\\API.csproj|c:\\users\\daniel.c\\documents\\prueba tecnica .net\\pruebatecnicabackend\\api\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240718FB-3417-40AD-9084-66125EA02C6C}|API\\API.csproj|solutionrelative:api\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160CA63A-AF04-4255-903A-82F89B5B6FE2}|Data\\Data.csproj|c:\\users\\daniel.c\\documents\\prueba tecnica .net\\pruebatecnicabackend\\data\\servicios\\tokenservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160CA63A-AF04-4255-903A-82F89B5B6FE2}|Data\\Data.csproj|solutionrelative:data\\servicios\\tokenservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160CA63A-AF04-4255-903A-82F89B5B6FE2}|Data\\Data.csproj|c:\\users\\daniel.c\\documents\\prueba tecnica .net\\pruebatecnicabackend\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160CA63A-AF04-4255-903A-82F89B5B6FE2}|Data\\Data.csproj|solutionrelative:data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240718FB-3417-40AD-9084-66125EA02C6C}|API\\API.csproj|c:\\users\\daniel.c\\documents\\prueba tecnica .net\\pruebatecnicabackend\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{240718FB-3417-40AD-9084-66125EA02C6C}|API\\API.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160CA63A-AF04-4255-903A-82F89B5B6FE2}|Data\\Data.csproj|c:\\users\\daniel.c\\documents\\prueba tecnica .net\\pruebatecnicabackend\\data\\interfaces\\itokenservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160CA63A-AF04-4255-903A-82F89B5B6FE2}|Data\\Data.csproj|solutionrelative:data\\interfaces\\itokenservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240718FB-3417-40AD-9084-66125EA02C6C}|API\\API.csproj|c:\\users\\daniel.c\\documents\\prueba tecnica .net\\pruebatecnicabackend\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240718FB-3417-40AD-9084-66125EA02C6C}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160CA63A-AF04-4255-903A-82F89B5B6FE2}|Data\\Data.csproj|c:\\users\\daniel.c\\documents\\prueba tecnica .net\\pruebatecnicabackend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160CA63A-AF04-4255-903A-82F89B5B6FE2}|Data\\Data.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFC8742-35C8-4500-ADEE-9E6E6EBA2EC4}|Models\\Models.csproj|c:\\users\\daniel.c\\documents\\prueba tecnica .net\\pruebatecnicabackend\\models\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFC8742-35C8-4500-ADEE-9E6E6EBA2EC4}|Models\\Models.csproj|solutionrelative:models\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFC8742-35C8-4500-ADEE-9E6E6EBA2EC4}|Models\\Models.csproj|c:\\users\\daniel.c\\documents\\prueba tecnica .net\\pruebatecnicabackend\\models\\entidades\\articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFC8742-35C8-4500-ADEE-9E6E6EBA2EC4}|Models\\Models.csproj|solutionrelative:models\\entidades\\articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFC8742-35C8-4500-ADEE-9E6E6EBA2EC4}|Models\\Models.csproj|c:\\users\\daniel.c\\documents\\prueba tecnica .net\\pruebatecnicabackend\\models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFC8742-35C8-4500-ADEE-9E6E6EBA2EC4}|Models\\Models.csproj|solutionrelative:models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFC8742-35C8-4500-ADEE-9E6E6EBA2EC4}|Models\\Models.csproj|c:\\users\\daniel.c\\documents\\prueba tecnica .net\\pruebatecnicabackend\\models\\dtos\\registrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFC8742-35C8-4500-ADEE-9E6E6EBA2EC4}|Models\\Models.csproj|solutionrelative:models\\dtos\\registrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFC8742-35C8-4500-ADEE-9E6E6EBA2EC4}|Models\\Models.csproj|c:\\users\\daniel.c\\documents\\prueba tecnica .net\\pruebatecnicabackend\\models\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFC8742-35C8-4500-ADEE-9E6E6EBA2EC4}|Models\\Models.csproj|solutionrelative:models\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160CA63A-AF04-4255-903A-82F89B5B6FE2}|Data\\Data.csproj|c:\\users\\daniel.c\\documents\\prueba tecnica .net\\pruebatecnicabackend\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{160CA63A-AF04-4255-903A-82F89B5B6FE2}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFC8742-35C8-4500-ADEE-9E6E6EBA2EC4}|Models\\Models.csproj|c:\\users\\daniel.c\\documents\\prueba tecnica .net\\pruebatecnicabackend\\models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6AFC8742-35C8-4500-ADEE-9E6E6EBA2EC4}|Models\\Models.csproj|solutionrelative:models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160CA63A-AF04-4255-903A-82F89B5B6FE2}|Data\\Data.csproj|c:\\users\\daniel.c\\documents\\prueba tecnica .net\\pruebatecnicabackend\\data\\migrations\\20240629161954_migracioninicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160CA63A-AF04-4255-903A-82F89B5B6FE2}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240629161954_migracioninicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160CA63A-AF04-4255-903A-82F89B5B6FE2}|Data\\Data.csproj|c:\\users\\daniel.c\\documents\\prueba tecnica .net\\pruebatecnicabackend\\data\\migrations\\20240629211046_agregarpasswordmigracionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160CA63A-AF04-4255-903A-82F89B5B6FE2}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240629211046_agregarpasswordmigracionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServicioAplicacionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\API\\Extensiones\\ServicioAplicacionExtension.cs",
+              "RelativeDocumentMoniker": "API\\Extensiones\\ServicioAplicacionExtension.cs",
+              "ToolTip": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\API\\Extensiones\\ServicioAplicacionExtension.cs",
+              "RelativeToolTip": "API\\Extensiones\\ServicioAplicacionExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:02:32.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\API\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\API\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "API\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwCkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T16:51:43.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticuloController.cs",
+              "DocumentMoniker": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\API\\Controllers\\ArticuloController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ArticuloController.cs",
+              "ToolTip": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\API\\Controllers\\ArticuloController.cs",
+              "RelativeToolTip": "API\\Controllers\\ArticuloController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T17:01:19.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServicioIdentidadExtension.cs",
+              "DocumentMoniker": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\API\\Extensiones\\ServicioIdentidadExtension.cs",
+              "RelativeDocumentMoniker": "API\\Extensiones\\ServicioIdentidadExtension.cs",
+              "ToolTip": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\API\\Extensiones\\ServicioIdentidadExtension.cs",
+              "RelativeToolTip": "API\\Extensiones\\ServicioIdentidadExtension.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:11:15.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\API\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\API\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "API\\Controllers\\BaseApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:19:50.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenServicio.cs",
+              "DocumentMoniker": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\Data\\Servicios\\TokenServicio.cs",
+              "RelativeDocumentMoniker": "Data\\Servicios\\TokenServicio.cs",
+              "ToolTip": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\Data\\Servicios\\TokenServicio.cs",
+              "RelativeToolTip": "Data\\Servicios\\TokenServicio.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:28:35.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:22:09.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\API\\appsettings.Development.json",
+              "RelativeToolTip": "API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-29T15:37:48.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITokenServicio.cs",
+              "DocumentMoniker": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\Data\\Interfaces\\ITokenServicio.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\ITokenServicio.cs",
+              "ToolTip": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\Data\\Interfaces\\ITokenServicio.cs",
+              "RelativeToolTip": "Data\\Interfaces\\ITokenServicio.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T23:26:03.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T15:50:57.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T15:43:03.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\Models\\DTOs\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\Models\\DTOs\\UsuarioDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\UsuarioDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T00:16:33.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegistroDto.cs",
+              "DocumentMoniker": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\Models\\DTOs\\RegistroDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\RegistroDto.cs",
+              "ToolTip": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\Models\\DTOs\\RegistroDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\RegistroDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:37:14.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240629161954_MigracionInicial.cs",
+              "DocumentMoniker": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\Data\\Migrations\\20240629161954_MigracionInicial.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240629161954_MigracionInicial.cs",
+              "ToolTip": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\Data\\Migrations\\20240629161954_MigracionInicial.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240629161954_MigracionInicial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T16:19:55.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Articulos.cs",
+              "DocumentMoniker": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\Models\\Entidades\\Articulos.cs",
+              "RelativeDocumentMoniker": "Models\\Entidades\\Articulos.cs",
+              "ToolTip": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\Models\\Entidades\\Articulos.cs",
+              "RelativeToolTip": "Models\\Entidades\\Articulos.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T15:12:12.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\Models\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\Models\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T22:54:27.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240629211046_AgregarPasswordMigracionUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\Data\\Migrations\\20240629211046_AgregarPasswordMigracionUsuario.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240629211046_AgregarPasswordMigracionUsuario.cs",
+              "ToolTip": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\Data\\Migrations\\20240629211046_AgregarPasswordMigracionUsuario.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240629211046_AgregarPasswordMigracionUsuario.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:10:52.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\Models\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Entidades\\Usuario.cs",
+              "ToolTip": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\Models\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "Models\\Entidades\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T15:35:15.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Models.csproj",
+              "DocumentMoniker": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\Models\\Models.csproj",
+              "RelativeDocumentMoniker": "Models\\Models.csproj",
+              "ToolTip": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\Models\\Models.csproj",
+              "RelativeToolTip": "Models\\Models.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-29T15:25:22.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Data.csproj",
+              "DocumentMoniker": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\DANIEL.C\\Documents\\Prueba Tecnica .Net\\PruebaTecnicaBackend\\Data\\Data.csproj",
+              "RelativeToolTip": "Data\\Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-29T15:24:56.406Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
