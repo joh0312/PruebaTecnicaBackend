@@ -1,7 +1,6 @@
 # PruebaTecnicaBackend
 
 
-Descripción corta de tu API y su propósito.
 
 Estructura del Proyecto
 Tu proyecto está estructurado de la siguiente manera:
