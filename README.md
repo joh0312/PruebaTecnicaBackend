@@ -26,7 +26,7 @@ DotNet
 SQL Server
 Configuración
 Clona este repositorio.
-Abre la solución en Visual Studio o tu editor de código preferido.
+Abre la solución en Visual Studio.
 Configuración de la Base de Datos
 Asegúrate de tener configurada la cadena de conexión en appsettings.json.
 Ejecuta las migraciones de Entity Framework Core para crear la base de datos y las tablas necesarias.
